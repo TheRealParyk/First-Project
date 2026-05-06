@@ -1,3 +1,3 @@
 # First-Project
 Short platformer game.
-*This is ly first project* **have fun!**
+*This is my first project* **have fun!**
